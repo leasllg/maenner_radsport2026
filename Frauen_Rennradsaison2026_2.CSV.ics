@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-TIMEZONE:Europe/Brussels
+PRODID:CSVtoICAL-Konverter Luda
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+Subject;Start Date;End Date:UAE Tour Women;2026-02-05;2026-02-08
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Vuelta CV Femininas;2026-02-08;2026-02-08
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Setmana Valenciana;2026-02-12;2026-02-15
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Grand Prix Alanya;2026-02-21;2026-02-21
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Clasica de Almeria Women;2026-02-22;2026-02-22
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Omloop Het Nieuwsblad Women;2026-02-28;2026-02-28
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Strade Bianche Women;2026-03-07;2026-03-07
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Milano-Sanremo Women;2026-03-21;2026-03-21
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Great Sprint Classic;2026-03-22;2026-03-22
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Gent-Wevelgem Women;2026-03-29;2026-03-29
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Women's Tour of Thailand;2026-03-31;2026-04-02
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Ronde van Vlaanderen Women;2026-04-05;2026-04-05
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Paris Roubaix Women;2026-04-12;2026-04-12
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:De Brabantse Pijl Women;2026-04-17;2026-04-17
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Amstel Gold Race Women;2026-04-19;2026-04-19
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:La Fl?che Wallonne Women;2026-04-22;2026-04-22
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Li?ge-Bastogne-Li?ge Women;2026-04-26;2026-04-26
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Vuelta Women;2026-05-03;2026-05-10
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Giro d'Italia Women;2026-05-30;2026-06-07
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Copenhagen Sprint Women;2026-06-13;2026-06-13
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Tour de Suisse Women;2026-06-17;2026-06-21
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Tour de France Femmes;2026-08-01;2026-08-09
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Tour de Pologne Women;2026-08-14;2026-08-16
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Tour de Romandie Women;2026-09-04;2026-09-06
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Grand Prix Stuttgart;2026-09-13;2026-09-13
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Grand Prix Wallonie Women;2026-09-16;2026-09-16
+END:VEVENT
+END:VCALENDAR
