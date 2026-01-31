@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-TIMEZONE:Europe/Brussels
+PRODID:CSVtoICAL-Konverter Luda
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+Subject;Start Date;End Date:UAE Tour;16.02.2026;22.02.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Omloop Het Nieuwsblad;28.02.2026;28.02.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Strade Bianche;07.03.2026;07.03.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Paris-Nizza;08.03.2026;15.03.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Milan-Sanremo;21.03.2026;21.03.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Driedaagse Brugge?De Panne;25.03.2026;25.03.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:E3 Harelbeke;27.03.2026;27.03.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Gent-Wevelgem;29.03.2026;29.03.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Katalonien Rundfahrt;23.03.2026;29.03.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Dwars door Vlaanderen;01.04.2026;01.04.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Ronde van Vlaanderen;05.04.2026;05.04.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Baskenland Rundfahrt;06.04.2026;11.04.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Paris Roubaix;12.04.2026;12.04.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Amstel Gold Race;19.04.2026;19.04.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:La Fl?che Wallonne;22.04.2026;22.04.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Li?ge-Bastogne-Li?ge;26.04.2026;26.04.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Tour de Romandie;28.04.2026;03.05.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Eschborn-Frankfurt;01.05.2026;01.05.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Giro d'Italia;09.05.2026;31.05.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Dauphin?;07.06.2026;14.06.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Copenhagen Sprint;14.06.2026;14.06.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Tour Auvergne-Rh?ne-Alpes;07.06.2026;14.06.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Tour de Suisse;17.06.2026;21.06.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Tour de France;04.07.2026;26.07.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Clasica San Sebastian;01.08.2026;01.08.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Tour de Pologne;03.08.2026;09.08.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Cyclassics Hamburg;16.08.2026;16.08.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Renewi Tour (Benelux);19.08.2026;23.08.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Deutschland Tour;19.08.2026;23.08.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Vuelta a Espa?a;22.08.2026;13.09.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Bretagne Classic;30.08.2026;30.08.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:GP de Qu?bec;11.09.2026;11.09.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:GP de Montr?al;13.09.2026;13.09.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Il Lombardia;10.10.2026;10.10.2026
+END:VEVENT
+BEGIN:VEVENT
+Subject;Start Date;End Date:Tour of Guangxi;13.10.2026;18.10.2026
+END:VEVENT
+END:VCALENDAR
